@@ -6,19 +6,23 @@ métodos de análisis estadístico multivariado. Cada script utiliza una base de
 
 Las técnicas incluidas son:
 
-1. Análisis de Componentes Principales (PCA)
-2. Correlación Canónica
-3. Agrupamiento Jerárquico
-4. Escalamiento Multidimensional No Métrico (NMDS)
-5. Escalamiento Métrico Clásico (MDS)
-6. Análisis de Correspondencias Canónicas (CCA)
-7. Análisis de Redundancia (RDA)
-8. MANOVA
-9. PERMANOVA
-10. Regresión Logística
-11. Regresiones Binomial y Multinomial
-12. Regresión No Lineal
-13. Modelos Lineales Generalizados Mixtos (GLMM)
+A. Análisis Exploratorio Multivariado
+ 1. Análisis de Componentes Principales (PCA)
+ 2. Correlación Canónica
+ 3. Agrupamiento Jerárquico
+B. Métodos de Ordenación y Escalamiento 
+ 5. Escalamiento Multidimensional No Métrico (NMDS)
+ 6. Escalamiento Métrico Clásico (MDS)
+C. Análisis de Relaciones Multivariadas
+ 8. Análisis de Correspondencias Canónicas (CCA)
+ 9. Análisis de Redundancia (RDA)
+ 10. MANOVA
+ 11. PERMANOVA
+D. Modelos de Regresión Multivariada 
+ 13. Regresión Logística
+ 14. Regresiones Binomial y Multinomial
+ 15. Regresión No Lineal
+ 16. Modelos Lineales Generalizados Mixtos (GLMM)
 
 Cada análisis se encuentra en un archivo independiente dentro del directorio
 `scripts/` junto con un README específico que describe el conjunto de datos
